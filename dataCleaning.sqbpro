@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/caill/Desktop/Cours Mines/Defi/S7/Structure des données/TP_Fifa/test.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="150"/><column_width id="3" width="12335"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,12:mainCleanDataset"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="CleanDataset" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="73"/><column index="2" value="212"/><column index="3" value="61"/><column index="4" value="300"/><column index="5" value="184"/><column index="6" value="300"/><column index="7" value="84"/><column index="8" value="102"/><column index="9" value="300"/><column index="10" value="300"/><column index="11" value="83"/><column index="12" value="177"/><column index="13" value="70"/><column index="14" value="177"/><column index="15" value="85"/><column index="16" value="153"/><column index="17" value="258"/><column index="18" value="113"/><column index="19" value="119"/><column index="20" value="161"/><column index="21" value="228"/><column index="22" value="104"/><column index="23" value="92"/><column index="24" value="158"/><column index="25" value="127"/><column index="26" value="137"/><column index="27" value="197"/><column index="28" value="79"/><column index="29" value="85"/><column index="30" value="61"/><column index="31" value="61"/><column index="32" value="61"/><column index="33" value="61"/><column index="34" value="61"/><column index="35" value="61"/><column index="36" value="61"/><column index="37" value="61"/><column index="38" value="61"/><column index="39" value="61"/><column index="40" value="61"/><column index="41" value="61"/><column index="42" value="61"/><column index="43" value="61"/><column index="44" value="61"/><column index="45" value="61"/><column index="46" value="61"/><column index="47" value="61"/><column index="48" value="61"/><column index="49" value="61"/><column index="50" value="62"/><column index="51" value="61"/><column index="52" value="61"/><column index="53" value="61"/><column index="54" value="61"/><column index="55" value="61"/><column index="56" value="98"/><column index="57" value="104"/><column index="58" value="189"/><column index="59" value="144"/><column index="60" value="84"/><column index="61" value="106"/><column index="62" value="71"/><column index="63" value="131"/><column index="64" value="138"/><column index="65" value="123"/><column index="66" value="138"/><column index="67" value="137"/><column index="68" value="77"/><column index="69" value="111"/><column index="70" value="92"/><column index="71" value="122"/><column index="72" value="99"/><column index="73" value="95"/><column index="74" value="101"/><column index="75" value="117"/><column index="76" value="124"/><column index="77" value="149"/><column index="78" value="124"/><column index="79" value="73"/><column index="80" value="104"/><column index="81" value="125"/><column index="82" value="95"/><column index="83" value="168"/><column index="84" value="147"/><column index="85" value="106"/><column index="86" value="132"/><column index="87" value="116"/><column index="88" value="153"/><column index="89" value="128"/><column index="90" value="157"/><column index="91" value="267"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="data" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="70"/><column index="2" value="73"/><column index="3" value="212"/><column index="4" value="70"/><column index="5" value="300"/><column index="6" value="184"/><column index="7" value="300"/><column index="8" value="70"/><column index="9" value="86"/><column index="10" value="300"/><column index="11" value="300"/><column index="12" value="83"/><column index="13" value="83"/><column index="14" value="83"/><column index="15" value="134"/><column index="16" value="225"/><column index="17" value="102"/><column index="18" value="105"/><column index="19" value="161"/><column index="20" value="228"/><column index="21" value="93"/><column index="22" value="83"/><column index="23" value="139"/><column index="24" value="127"/><column index="25" value="300"/><column index="26" value="179"/><column index="27" value="83"/><column index="28" value="83"/><column index="29" value="83"/><column index="30" value="83"/><column index="31" value="83"/><column index="32" value="83"/><column index="33" value="83"/><column index="34" value="83"/><column index="35" value="83"/><column index="36" value="83"/><column index="37" value="83"/><column index="38" value="83"/><column index="39" value="83"/><column index="40" value="83"/><column index="41" value="83"/><column index="42" value="83"/><column index="43" value="83"/><column index="44" value="83"/><column index="45" value="83"/><column index="46" value="83"/><column index="47" value="83"/><column index="48" value="83"/><column index="49" value="83"/><column index="50" value="83"/><column index="51" value="83"/><column index="52" value="83"/><column index="53" value="83"/><column index="54" value="83"/><column index="55" value="83"/><column index="56" value="85"/><column index="57" value="159"/><column index="58" value="121"/><column index="59" value="83"/><column index="60" value="87"/><column index="61" value="83"/><column index="62" value="107"/><column index="63" value="117"/><column index="64" value="104"/><column index="65" value="116"/><column index="66" value="114"/><column index="67" value="83"/><column index="68" value="93"/><column index="69" value="83"/><column index="70" value="102"/><column index="71" value="83"/><column index="72" value="83"/><column index="73" value="83"/><column index="74" value="99"/><column index="75" value="104"/><column index="76" value="124"/><column index="77" value="104"/><column index="78" value="83"/><column index="79" value="88"/><column index="80" value="107"/><column index="81" value="83"/><column index="82" value="143"/><column index="83" value="124"/><column index="84" value="88"/><column index="85" value="111"/><column index="86" value="95"/><column index="87" value="129"/><column index="88" value="107"/><column index="89" value="142"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">
+/*SELECT COUNT(*) AS Number_of_Null_Vaule_in_Name FROM data
+WHERE Name IS NULL;
+
+Il n'y a 0 valeur nulle dans la colonne nameé
+
+
+
+
+
+ SELECT   COUNT(ID) - COUNT(DISTINCT ID)  AS number_of_duplicate FROM data;
+
+Il n'y a aucune ligne en double
+
+
+for 93+3 data
+
+
+SELECT LS ,  CONVERT(SUBSTRING_INDEX(LS,'+',1), SIGNED INTEGER) + CONVERT(SUBSTRING_INDEX(LS,'+',-1), SIGNED INTEGER) AS corrected_LS FROM data;
+
+
+SELECT LS , CONVERT(SUBSTRING_INDEX(LS,&quot;+&quot;,1), SIGNED INTEGER) + CONVERT(SUBSTRING_INDEX(LS,&quot;+&quot;,-1), SIGNED INTEGER) AS corrected_LS FROM data;
+
+Cleaning duplicated row 
+
+
+SELECT ID, Wage ,  IF(wage_without_euro LIKE &quot;%M%&quot;, 
+(CONVERT(SUBSTRING_INDEX(wage_without_euro ,&quot;M&quot;,1), DECIMAL(18,2))* 1000000), 
+CONVERT(SUBSTRING_INDEX(wage_without_euro ,&quot;K&quot;,1), DECIMAL(18,2))* 1000)  ) AS corrected_wage 
+FROM 
+(SELECT Wage, ID, SUBSTRING_INDEX(Wage,&quot;€&quot;,-1) AS wage_without_euro FROM data HAVING wage_without_euro != &quot;0&quot;) AS new_wage_column;
+
+*/
+
+/*
+CREATE Table WagesTable AS
+SELECT ID, IIF(wage_without_euro LIKE &quot;%M%&quot;, 
+CAST(trim(wage_without_euro ,&quot;M&quot;) as DOUB)* 1000000, 
+CAST(trim(wage_without_euro ,&quot;K&quot;)as DOUB) * 1000 ) AS corrected_wage 
+FROM 
+(SELECT Wage, ID, trim(Wage,&quot;€&quot;) AS wage_without_euro FROM data  WHERE wage_without_euro != &quot;0&quot; ) AS new_wage_column;
+
+
+CREATE Table ValueTable AS
+SELECT ID ,IIF(value_without_euro LIKE &quot;%M%&quot;, 
+CAST(trim(value_without_euro ,&quot;M&quot;) as DOUB)* 1000000, 
+CAST(trim(value_without_euro ,&quot;K&quot;)as DOUB) * 1000 ) AS corrected_value 
+FROM 
+(SELECT Value, ID, trim(Value,&quot;€&quot;) AS value_without_euro FROM data  WHERE value_without_euro != &quot;0&quot; ) AS new_value_column;
+
+
+CREATE Table ReleaseClauseTable AS
+SELECT ID, IIF(ReleaseClause_without_euro LIKE &quot;%M%&quot;, 
+CAST(trim(ReleaseClause_without_euro ,&quot;M&quot;) as DOUB)* 1000000, 
+CAST(trim(ReleaseClause_without_euro ,&quot;K&quot;)as DOUB) * 1000 ) AS corrected_ReleaseClause 
+FROM 
+(SELECT ReleaseClause, ID, trim(ReleaseClause,&quot;€&quot;) AS ReleaseClause_without_euro FROM data  WHERE ReleaseClause_without_euro != &quot;0&quot; ) AS new_ReleaseClause_column;
+
+
+*/
+
+-- for wages
+--SELECT ID, Wage ,  IIF(wage_without_euro LIKE &quot;%M%&quot;, 
+ --CAST(trim(wage_without_euro ,&quot;M&quot;) as INT)* 1000000, 
+ --CAST(trim(wage_without_euro ,&quot;K&quot;)as INT) * 1000 ) AS corrected_wage 
+--FROM 
+--(SELECT Wage, ID, trim(Wage,&quot;€&quot;) AS wage_without_euro FROM data  WHERE wage_without_euro != &quot;0&quot; ) AS new_wage_column;
+
+
+-- for values
+--SELECT ID, Value ,  IIF(value_without_euro LIKE &quot;%M%&quot;, 
+ --CAST(trim(value_without_euro ,&quot;M&quot;) as INT)* 1000000, 
+ --CAST(trim(value_without_euro ,&quot;K&quot;)as INT) * 1000 ) AS corrected_value 
+--FROM 
+--(SELECT Value, ID, trim(Value,&quot;€&quot;) AS value_without_euro FROM data  WHERE value_without_euro != &quot;0&quot; ) AS new_value_column;
+
+
+
+
+--for ReleaseClause
+
+--SELECT ID, ReleaseClause ,  IIF(ReleaseClause_without_euro LIKE &quot;%M%&quot;, 
+--CAST(trim(ReleaseClause_without_euro ,&quot;M&quot;) as INT)* 1000000, 
+--CAST(trim(ReleaseClause_without_euro ,&quot;K&quot;)as INT) * 1000 ) AS corrected_ReleaseClause 
+--FROM 
+--(SELECT ReleaseClause, ID, trim(ReleaseClause,&quot;€&quot;) AS ReleaseClause_without_euro FROM data  WHERE ReleaseClause_without_euro != &quot;0&quot; ) AS new_ReleaseClause_column;
+
+
+-- Pour 93 +3
+-- SELECT  cast(trim(LS,&quot;+&quot;) as INT) + cast(substr(LS,3) as INT) AS LS  from data;
+
+/*
+SELECT  ID, Name, Age, Photo, Nationality, Flag, Overall, Potential, Club, ClubLogo, 
+
+Value, Wage,
+
+Special, PreferredFoot, InternationalReputation, WeakFoot, SkillMoves, WorkRate,BodyType, RealFace, Position, JerseyNumber, Joined,LoanedFrom,ContractValidUntil,Height,Weight,
+
+
+cast(trim(LS,&quot;+&quot;) as INT) + cast(substr(LS,3) as INT) AS LS,
+cast(trim(ST,&quot;+&quot;) as INT) + cast(substr(ST,3) as INT) AS ST,
+cast(trim(RS,&quot;+&quot;) as INT) + cast(substr(RS,3) as INT) AS RS,
+cast(trim(LW,&quot;+&quot;) as INT) + cast(substr(LW,3) as INT) AS LW,
+cast(trim(LF,&quot;+&quot;) as INT) + cast(substr(LF,3) as INT) AS LF,
+cast(trim(CF,&quot;+&quot;) as INT) + cast(substr(CF,3) as INT) AS CF,
+cast(trim(RF,&quot;+&quot;) as INT) + cast(substr(RF,3) as INT) AS RF,
+cast(trim(RW,&quot;+&quot;) as INT) + cast(substr(RW,3) as INT) AS RW,
+cast(trim(LAM,&quot;+&quot;) as INT) + cast(substr(LAM,3) as INT) AS LAM,
+cast(trim(CAM,&quot;+&quot;) as INT) + cast(substr(CAM,3) as INT) AS CAM,
+cast(trim(RAM,&quot;+&quot;) as INT) + cast(substr(RAM,3) as INT) AS RAM,
+cast(trim(LM,&quot;+&quot;) as INT) + cast(substr(LM,3) as INT) AS LM,
+cast(trim(LCM,&quot;+&quot;) as INT) + cast(substr(LCM,3) as INT) AS LCM,
+cast(trim(CM,&quot;+&quot;) as INT) + cast(substr(CM,3) as INT) AS CM,
+cast(trim(RCM,&quot;+&quot;) as INT) + cast(substr(RCM,3) as INT) AS RCM,
+cast(trim(RM,&quot;+&quot;) as INT) + cast(substr(RM,3) as INT) AS RM,
+cast(trim(LWB,&quot;+&quot;) as INT) + cast(substr(LWB,3) as INT) AS LWB,
+cast(trim(LDM,&quot;+&quot;) as INT) + cast(substr(LDM,3) as INT) AS LDM,
+cast(trim(CDM,&quot;+&quot;) as INT) + cast(substr(CDM,3) as INT) AS CDM,
+cast(trim(RDM,&quot;+&quot;) as INT) + cast(substr(RDM,3) as INT) AS RDM,
+cast(trim(RWB,&quot;+&quot;) as INT) + cast(substr(RWB,3) as INT) AS RWB,
+cast(trim(LB,&quot;+&quot;) as INT) + cast(substr(LB,3) as INT) AS LB,
+cast(trim(LCB,&quot;+&quot;) as INT) + cast(substr(LCB,3) as INT) AS LCB,
+cast(trim(CB,&quot;+&quot;) as INT) + cast(substr(CB,3) as INT) AS CB,
+cast(trim(RCB,&quot;+&quot;) as INT) + cast(substr(RCB,3) as INT) AS RCB,
+cast(trim(RB,&quot;+&quot;) as INT) + cast(substr(RB,3) as INT) AS RB,
+
+
+
+
+
+Crossing,Finishing,HeadingAccuracy,ShortPassing,Volleys,Dribbling,Curve,FKAccuracy,LongPassing,BallControl,Acceleration,SprintSpeed,Agility,Reactions,Balance,ShotPower,Jumping,Stamina,Strength,LongShots,Aggression,Interceptions,Positioning,Vision,Penalties,Composure,Marking,StandingTackle,SlidingTackle,GKDiving,GKHandling,GKKicking,GKPositioning,GKReflexes,
+
+
+from data ;
+
+*/
+
+
+/*
+
+CREATE TABLE CleanDataset As 
+
+
+
+SELECT data.ID, Name, Age, Photo, Nationality, Flag, Overall, Potential, Club, ClubLogo, Value, corrected_value, Wage, corrected_wage,
+
+Special, PreferredFoot, InternationalReputation, WeakFoot, SkillMoves, WorkRate,BodyType, RealFace, Position, JerseyNumber, Joined,LoanedFrom,ContractValidUntil,Height,Weight,
+
+
+cast(trim(LS,&quot;+&quot;) as INT) + cast(substr(LS,3) as INT) AS LS,
+cast(trim(ST,&quot;+&quot;) as INT) + cast(substr(ST,3) as INT) AS ST,
+cast(trim(RS,&quot;+&quot;) as INT) + cast(substr(RS,3) as INT) AS RS,
+cast(trim(LW,&quot;+&quot;) as INT) + cast(substr(LW,3) as INT) AS LW,
+cast(trim(LF,&quot;+&quot;) as INT) + cast(substr(LF,3) as INT) AS LF,
+cast(trim(CF,&quot;+&quot;) as INT) + cast(substr(CF,3) as INT) AS CF,
+cast(trim(RF,&quot;+&quot;) as INT) + cast(substr(RF,3) as INT) AS RF,
+cast(trim(RW,&quot;+&quot;) as INT) + cast(substr(RW,3) as INT) AS RW,
+cast(trim(LAM,&quot;+&quot;) as INT) + cast(substr(LAM,3) as INT) AS LAM,
+cast(trim(CAM,&quot;+&quot;) as INT) + cast(substr(CAM,3) as INT) AS CAM,
+cast(trim(RAM,&quot;+&quot;) as INT) + cast(substr(RAM,3) as INT) AS RAM,
+cast(trim(LM,&quot;+&quot;) as INT) + cast(substr(LM,3) as INT) AS LM,
+cast(trim(LCM,&quot;+&quot;) as INT) + cast(substr(LCM,3) as INT) AS LCM,
+cast(trim(CM,&quot;+&quot;) as INT) + cast(substr(CM,3) as INT) AS CM,
+cast(trim(RCM,&quot;+&quot;) as INT) + cast(substr(RCM,3) as INT) AS RCM,
+cast(trim(RM,&quot;+&quot;) as INT) + cast(substr(RM,3) as INT) AS RM,
+cast(trim(LWB,&quot;+&quot;) as INT) + cast(substr(LWB,3) as INT) AS LWB,
+cast(trim(LDM,&quot;+&quot;) as INT) + cast(substr(LDM,3) as INT) AS LDM,
+cast(trim(CDM,&quot;+&quot;) as INT) + cast(substr(CDM,3) as INT) AS CDM,
+cast(trim(RDM,&quot;+&quot;) as INT) + cast(substr(RDM,3) as INT) AS RDM,
+cast(trim(RWB,&quot;+&quot;) as INT) + cast(substr(RWB,3) as INT) AS RWB,
+cast(trim(LB,&quot;+&quot;) as INT) + cast(substr(LB,3) as INT) AS LB,
+cast(trim(LCB,&quot;+&quot;) as INT) + cast(substr(LCB,3) as INT) AS LCB,
+cast(trim(CB,&quot;+&quot;) as INT) + cast(substr(CB,3) as INT) AS CB,
+cast(trim(RCB,&quot;+&quot;) as INT) + cast(substr(RCB,3) as INT) AS RCB,
+cast(trim(RB,&quot;+&quot;) as INT) + cast(substr(RB,3) as INT) AS RB,
+
+
+
+Crossing,Finishing,HeadingAccuracy,ShortPassing,Volleys,Dribbling,Curve,FKAccuracy,LongPassing,BallControl,Acceleration,SprintSpeed,
+Agility,Reactions,Balance,ShotPower,Jumping,Stamina,Strength,LongShots,Aggression,Interceptions,Positioning,Vision,Penalties,Composure,
+Marking,StandingTackle,SlidingTackle,GKDiving,GKHandling,GKKicking,GKPositioning,GKReflexes, ReleaseClause, corrected_ReleaseClause
+
+FROM data INNER JOIN WagesTable ON data.ID = WagesTable.ID INNER JOIN ValueTable ON data.ID = ValueTable.ID INNER JOIN ReleaseClauseTable ON data.ID = ReleaseClauseTable.ID;
+
+
+*/
+
+SELECT * FROM CleanDataset
+
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
